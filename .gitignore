@@ -1,4 +1,10 @@
-*.DS_Store
-*.ipynb_checkpoints
-*/__pycache__
-*.workspace-config.json
+Data Modeling with Postgres/.DS_Store
+Data Modeling with Postgres/__pycache__
+Data Modeling with Postgres/.ipynb_checkpoints
+Data Modeling with Cassandra/.ipynb_checkpoints
+Data Modeling with Cassandra/.DS_Store
+Data Modeling with Cassandra/.workspace-config.json
+*/*.DS_Store
+*/*__pycache__
+*/*.ipynb_checkpoints
+*/*.workspace-config.json
