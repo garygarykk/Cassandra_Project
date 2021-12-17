@@ -1,10 +1,11 @@
-Data Modeling with Postgres/.DS_Store
-Data Modeling with Postgres/__pycache__
-Data Modeling with Postgres/.ipynb_checkpoints
-Data Modeling with Cassandra/.ipynb_checkpoints
-Data Modeling with Cassandra/.DS_Store
-Data Modeling with Cassandra/.workspace-config.json
-*/*.DS_Store
-*/*__pycache__
-*/*.ipynb_checkpoints
-*/*.workspace-config.json
+# Ignore all mac system files
+.DS_Store
+
+# ignore all python cache files
+__pycache__
+
+# Ignore all jupyter notebook cache files
+.ipynb_checkpoints
+
+# Ignore workspace setting
+.workspace-config.json
